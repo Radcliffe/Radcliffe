@@ -4,7 +4,7 @@ I am a software developer, a pianist, and an occasional mathematician. I am a co
 
 - 🔭 I’m currently working on ... using transformer models in NLP, and word-sense disambiguation in particular.
 - 🌱 I’m currently learning ... quantum computing.
-- ⚡ Fun fact: There are infinitely many squares of integers whose only digits in base 5 are 0 and 1. (Radcliffe 2015)
+- ⚡ Fun fact: There are infinitely many squares of integers not divisible by 5 whose only digits in base 5 are 0 and 1. (Radcliffe 2015)
 
 Here are some other places that I can be found:
 - Email: dradcliffe@gmail.com
